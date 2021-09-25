@@ -1,22 +1,15 @@
-# Exercise-02d-Menu-HUD-Levels
-Exercise for MSCH-C220, 16 September 2021
-
-A simple game exploring HUD elements and changing scenes.
+# Space Shooter
+  Project 2 for C220. 25 September 2021
+  An extremely basic space shooter for class C220. No additions from the base done in class for the sake of time and sanity.
 
 ## Implementation
-Built using Godot 3.3.3
-
-The font, Bebas Neue Regular (Ryoichi Tsunekawa) was downloaded from [https://fontlibrary.org/en/font/bebasneueregular](https://fontlibrary.org/en/font/bebasneueregular)
-
-Assets provided by [kenney.nl](https://kenney.nl/assets/simple-space)
-
-Explosion sprite sheets provided by [StumpyStrust](https://opengameart.org/content/explosion-sheet) and [Cuzco](https://opengameart.org/content/explosion)
-
+  Created using Godot
+  
 ## References
-None
-
+  None
+  
 ## Future Development
-None
+  None
 
-## Created by 
-Jason Williams
+## Created By
+  Jason Williams
